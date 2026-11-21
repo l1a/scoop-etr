@@ -1,16 +1,16 @@
 {
-    "version": "0.11.0",
+    "version": "0.11.1",
     "description": "Reconnecting remote shell over QUIC — a Rust implementation of Eternal Terminal (et)",
     "homepage": "https://github.com/l1a/etr",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/l1a/etr/releases/download/v0.11.0/etr-windows-x86_64.exe#/etr.exe",
-            "hash": "7e07a4fe1e713c75a722f3f08a3465158ea8916f8026556cca1d7ae41694ab7a"
+            "url": "https://github.com/l1a/etr/releases/download/v0.11.1/etr-windows-x86_64.exe#/etr.exe",
+            "hash": "01f2bc1b324adbafff256db1f200329d67ba5c98a2bca161ae0f842c79ec0ac4"
         },
         "arm64": {
-            "url": "https://github.com/l1a/etr/releases/download/v0.11.0/etr-windows-aarch64.exe#/etr.exe",
-            "hash": "83d2ec84bbffd32eea81185f27f8ad4e6968e3bce5046957b126439251aaa522"
+            "url": "https://github.com/l1a/etr/releases/download/v0.11.1/etr-windows-aarch64.exe#/etr.exe",
+            "hash": "642c433993c11fd389c2d07ca77205c0fa605e65ce09a63a456c10b56c19076f"
         }
     },
     "bin": "etr.exe",
